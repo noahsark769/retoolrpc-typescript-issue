@@ -1,0 +1,17 @@
+{
+  "name": "retoolrpc-typescript-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "retoolrpc": "^0.1.3"
+  }
+}
